@@ -1,0 +1,9 @@
+Write a program without using printf, scanf, getchar, putchar (and related standard I/O functions) , without using FILE, fopen, etc; and only using open(), read(), write(), close(), lseek(): 
+
+which reads a text file, specified as command line argument (argv[1]) and 
+
+a word specified on command line (argv[2]) and
+
+prints all lines from the text file containing given word .
+
+Note: Here word is a character sequence, it need not be separated with space.
